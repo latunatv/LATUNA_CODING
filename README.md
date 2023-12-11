@@ -8,4 +8,4 @@ Du kannst mich auf Instagram unter "@latunahd" erreichen.
 Du kannst mich auf Instagram unter "@latunahd" erreichen.
 
 # Bugfixes
-Bugfixes werden in der Datei "bugfixes.md" angezeigt und aufgelistet.
+Bugfixes werden in der Datei "logs.md" angezeigt und aufgelistet.

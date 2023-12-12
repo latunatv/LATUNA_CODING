@@ -41,9 +41,8 @@ else:
 
             else:
                 print("Es gibt keine weiteren Rechnungsmöglichkeiten!")
-                print(" Starte das Programm neu, wenn du erneut rechnen willst!")
-                input("Beliebige Taste drücken...")
-
+                print(" Starte das Programm neu, wenn du erneut rechnen willst!")              
+input("Beliebige Taste drücken...")
 # |_________________________________________________________________________|
 # | This code was written by latunatv. GitHub: https://github.com/latunatv/ |
 # |              GitHub-Profile: https://github.com/latunatv/               |

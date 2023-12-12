@@ -1,7 +1,7 @@
-#|_________________________________________________________________________|
-#| This code was written by latunatv. GitHub: https://github.com/latunatv/ |
-#|              GitHub-Profile: https://github.com/latunatv/               |
-#|_________________________________________________________________________|
+# |_________________________________________________________________________|
+# | This code was written by latunatv. GitHub: https://github.com/latunatv/ |
+# |              GitHub-Profile: https://github.com/latunatv/               |
+# |_________________________________________________________________________|
 
 
 input("Warning! This program is a fun project and has not been bug-checked.")
@@ -44,7 +44,7 @@ else:
                 print(" Starte das Programm neu, wenn du erneut rechnen willst!")
                 input("Beliebige Taste drücken...")
 
-#|_________________________________________________________________________|
-#| This code was written by latunatv. GitHub: https://github.com/latunatv/ |
-#|              GitHub-Profile: https://github.com/latunatv/               |
-#|_________________________________________________________________________|
+# |_________________________________________________________________________|
+# | This code was written by latunatv. GitHub: https://github.com/latunatv/ |
+# |              GitHub-Profile: https://github.com/latunatv/               |
+# |_________________________________________________________________________|

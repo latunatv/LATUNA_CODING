@@ -1,4 +1,4 @@
-# Log 12.12.2023_" (newest)
+# Log 12.12.2023_2 (newest)
 1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].
 [1]: Nun können auch Ergebnisse angezeigt werden, die negativ sind.
 Außerdem kann man jetzt mir Nachkommastellen rechnen.

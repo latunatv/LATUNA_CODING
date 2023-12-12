@@ -12,7 +12,7 @@ is_addition = input("Addition: True oder False: ")
 if is_addition == "True":
     summand_1 = input("Gib den Wert des 1. Summanden an: ")
     summand_2 = input("Gib den Wert des 2. Summanden an: ")
-    ergebnis = int(summand_1) + int(summand_2)
+    ergebnis =float(summand_1) + float(summand_2)
     print("Das Ergebnis ist " + str(ergebnis) + ".")
 
 else:
@@ -20,7 +20,7 @@ else:
     if is_subtraction == "True":
         minuent = input("Gib den Wert des Minuenden an: ")
         subtrahent = input("Gib den Wert des Subtrahenden an: ")
-        ergebnis = int(minuent) - int(subtrahent)
+        ergebnis = float(minuent) - float(subtrahent)
         print("Das Ergebnis ist " + str(ergebnis) + ".")
 
     else:
@@ -28,7 +28,7 @@ else:
         if is_division == "True":
             divident = input("Gib den Wert des Dividenden an: ")
             divisor = input("Gib den Wert des Divisoren an: ")
-            ergebnis = int(divident) / int(divisor)
+            ergebnis = float(divident) / float(divisor)
             print("Das Ergebnis ist " + str(ergebnis) + ".")
 
         else:
@@ -36,7 +36,7 @@ else:
             if is_multiplication == "True":
                 factor_1 = input("Gib den Wert des 1. Faktors an: ")
                 factor_2 = input("Gib den Wert des 2. Faktors an: ")
-                ergebnis = int(factor_1) * int(factor_2)
+                ergebnis = float(factor_1) * float(factor_2)
                 print("Das Ergebnis ist " + str(ergebnis) + ".")
 
             else:

@@ -1,5 +1,5 @@
 # Verwendung
-Wenn du Automatisierungen wie AI-Prompts oder andere nützlichen Features nutzen willst.
+Wenn du Automatisierungen wie AI-Prompts oder SimpleCalculator und andere nützlichen Features nutzen willst.
 
 # Hilfe bei Fehlern
 Du kannst mich auf Instagram unter "@latunahd" erreichen.

@@ -1,4 +1,8 @@
-# Log 12.12.2023_3 (newest)
+# Log 16.12.2023_1 (newest)
+1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].  
+[1]: Die Rechenartauswahl wurde verbessert und vereinfacht.
+
+# Log 12.12.2023_3 
 1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].  
 [1]: Die Kommentare wurden aktualisiert.
 

@@ -1,7 +1,12 @@
 # Log 21.12.2023_1 (newest)
+1. Die Dateien ("ConvertToDollar.jar") wurde/(n) auf GitHub aktualisiert [1].
+2. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
+[1]: Der Konverter wurde hinzugefügt.
+
+# Log 21.12.2023_1 
 1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].
 2. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
-[1]: Die Rechenar "Quadratwurzel" wurde hinzugefügt. Fehler wurden behoben.
+[1]: Die Rechenart "Quadratwurzel" wurde hinzugefügt. Fehler wurden behoben.
 
 # Log 16.12.2023_1 
 1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].

@@ -1,4 +1,9 @@
-# Log 21.12.2023_2 (newest)
+# Log 22.12.2023_1 (newest)
+1. Die Dateien ("simplecalculator") wurde/(n) auf GitHub aktualisiert [1].
+2. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
+[1]: Fehlerbehebung
+
+# Log 21.12.2023_2 
 1. Die Dateien ("ConvertToDollar.jar") wurde/(n) auf GitHub aktualisiert [1].
 2. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
 [1]: Der Konverter wurde hinzugefügt.

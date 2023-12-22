@@ -1,5 +1,5 @@
 # |_________________________________________________________________________|
-# | This code was written by latunatv. GitHub: https://github.com/latunatv/ |
+# | This code was written by latunatv. GitHub-Repository: LATUNA_CODING     |
 # |              GitHub-Profile: https://github.com/latunatv/               |
 # |_________________________________________________________________________|
 
@@ -26,16 +26,16 @@ if rechenart == "Addition":
 
 
 if rechenart == "Subtraktion":
-    minuent = input("Gib den Wert des Minuenden an: ")
-    subtrahent = input("Gib den Wert des Subtrahenden an: ")
-    ergebnis = float(minuent) - float(subtrahent)
+    minuend = input("Gib den Wert des Minuenden an: ")
+    subtrahend = input("Gib den Wert des Subtrahenden an: ")
+    ergebnis = float(minuend) - float(subtrahend)
     print("Das Ergebnis ist " + str(ergebnis) + ".")
 
 
 if rechenart == "Division":
-    divident = input("Gib den Wert des Dividenden an: ")
+    dividend = input("Gib den Wert des Dividenden an: ")
     divisor = input("Gib den Wert des Divisoren an: ")
-    ergebnis = float(divident) / float(divisor)
+    ergebnis = float(dividend) / float(divisor)
     print("Das Ergebnis ist " + str(ergebnis) + ".")
 
 
@@ -56,6 +56,6 @@ else:
     print(" Starte das Programm neu, wenn du erneut rechnen willst!")
     input("Beliebige Taste drücken...")
 # |_________________________________________________________________________|
-# | This code was written by latunatv. GitHub: https://github.com/latunatv/ |
+# | This code was written by latunatv. GitHub-Repository: LATUNA_CODING     |
 # |              GitHub-Profile: https://github.com/latunatv/               |
 # |_________________________________________________________________________|

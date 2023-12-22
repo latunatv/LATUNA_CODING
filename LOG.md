@@ -1,5 +1,10 @@
-# Log 22.12.2023_1 (newest)
-1. Die Dateien ("simplecalculator") wurde/(n) auf GitHub aktualisiert [1].
+# Log 22.12.2023_2 (newest)
+1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].
+2. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
+[1]: Neue Rechenart "Potenz" wurde hinzugefügt. Fehler wurden behoben.
+
+# Log 22.12.2023_1 
+1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].
 2. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
 [1]: Fehlerbehebung
 

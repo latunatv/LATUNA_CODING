@@ -14,7 +14,7 @@ print("Warning! This program is a fun project and has not been bug-checked.")
 print("By continuing I am aware of the mistakes! (Press ENTER to continue)")
 print("__________________________________________________________________")
 print("__________________________________________________________________")
-print("|Rechenarten: Addition, Subtraktion, Division, Multiplikation, Quadratwurzel|")
+print("|Rechenarten: Addition, Subtraktion, Division, Multiplikation, Quadratwurzel, Potenz|")
 
 rechenart = input("Gib die Rechenart an: ")
 
@@ -50,11 +50,17 @@ if rechenart == "Quadratwurzel":
     wurzel = math.sqrt(zahl)
     print(f"Die Quadratwurzel von {zahl} ist {wurzel}.")
 
+if rechenart == "Potenz":
+    basis = input("Gib den Wert der Basis an: ")
+    exponent = input("Gib den Wert der Potenz an: ")
+    ergebnis = float(basis) ** float(exponent)
+    print("Das Ergebnis ist " + str(ergebnis) + ".")
 
 else:
     print("Diese Rechenart ist (noch) nicht vorhanden! / Fehler!")
-    print(" Starte das Programm neu, wenn du erneut rechnen willst!")
-    input("Beliebige Taste drücken...")
+print(" Starte das Programm neu, wenn du erneut rechnen willst!")
+input("Beliebige Taste drücken...")
+
 # |_________________________________________________________________________|
 # | This code was written by latunatv. GitHub-Repository: LATUNA_CODING     |
 # |              GitHub-Profile: https://github.com/latunatv/               |

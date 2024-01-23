@@ -1,0 +1,68 @@
+//        |_________________________________________________________________________|
+//        | This code was written by latunatv. GitHub-Repository: LATUNA_CODING     |
+//        |              GitHub-Profile: https://github.com/latunatv/               |
+//        |_________________________________________________________________________|
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Geben Sie hier ihre gewünschte Rechenart ein: ");
+        String rechenart = scanner.nextLine();
+
+        if (rechenart.equals("Addition")){
+            addition();
+        }
+        if (rechenart.equals("Subtraktion")){
+            subtraktion();
+        }
+        if (rechenart.equals("Multiplikation")){
+            multiplikation();
+        }
+        if (rechenart.equals("Division")){
+            division();
+        }
+    }
+    private static void addition(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Geben Sie den Wert der ersten Zahl ein: ");
+        Double a = scanner.nextDouble();
+        System.out.println("Geben Sie den Wert der zweiten Zahl ein: ");
+        Double b = scanner.nextDouble();
+        Double ergebnis_addition = a + b;
+        System.out.println("Dein Ergebnis ist " + ergebnis_addition);
+    }
+    private static void subtraktion(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Geben Sie den Wert der ersten Zahl ein: ");
+        Double a = scanner.nextDouble();
+        System.out.println("Geben Sie den Wert der zweiten Zahl ein: ");
+        Double b = scanner.nextDouble();
+        Double ergebnis_subtraktion = a - b;
+        System.out.println("Dein Ergebnis ist " + ergebnis_subtraktion);
+    }
+    private static void multiplikation(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Geben Sie den Wert der ersten Zahl ein: ");
+        Double a = scanner.nextDouble();
+        System.out.println("Geben Sie den Wert der zweiten Zahl ein: ");
+        Double b = scanner.nextDouble();
+        Double ergebnis_multiplikation = a * b;
+        System.out.println("Dein Ergebnis ist " + ergebnis_multiplikation);
+    }
+    private static void division(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Geben Sie den Wert der ersten Zahl ein: ");
+        Double a = scanner.nextDouble();
+        System.out.println("Geben Sie den Wert der zweiten Zahl ein: ");
+        Double b = scanner.nextDouble();
+        Double ergebnis_division = a / b;
+        System.out.println("Dein Ergebnis ist " + ergebnis_division);
+    }
+}
+
+//        |_________________________________________________________________________|
+//        | This code was written by latunatv. GitHub-Repository: LATUNA_CODING     |
+//        |              GitHub-Profile: https://github.com/latunatv/               |
+//        |_________________________________________________________________________|

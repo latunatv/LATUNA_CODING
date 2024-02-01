@@ -1,4 +1,9 @@
-# Log 23.01.2024_1 (newest)
+# Log 91.02.2024_1 (newest)
+1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].
+3. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
+[1]: Datei wurde aktualisiert.
+
+# Log 23.01.2024_1
 1. Die Dateien ("prettiercalculator.java") wurde/(n) auf GitHub aktualisiert [1].
 3. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
 [1]: Datei wurde hinzugefügt.

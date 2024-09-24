@@ -1,4 +1,8 @@
-# Log 01.02.2024_1 (newest)
+# Log 24.09.2024_1 (newest)
+1. Die Dateien ("scheresteinpapier.py") wurde/(n) auf GitHub hinzugefügt.
+3. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
+
+# Log 01.02.2024_1
 1. Die Dateien ("simplecalculator.py") wurde/(n) auf GitHub aktualisiert [1].
 3. Die Datei/(en) ("README.md, log.md") wurde/(n) angepasst und aktualisiert.
 [1]: While-Schleife wurde hinzugefügt --> Taschenrechner öfters nutzbar statt 1..
